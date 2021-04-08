@@ -1,2 +1,2 @@
-# A-R
-Repository
+# A.R
+Repository.github
